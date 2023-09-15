@@ -1,2 +1,4 @@
-# CTI110
-CIT110 rEPOSITORY
+# CTI110 Repository 
+Created for P1LAB1
+Quinonez Fernandez
+9/14/2023
