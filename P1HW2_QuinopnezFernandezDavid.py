@@ -32,7 +32,7 @@ Accomodation = input('Approximately, how much will you need for accomodation/hot
 
 print()
 
-Foot = input('Last, How mujch do you need for travel foot? ')
+Foot = input('Last, How much do you need for travel foot? ')
 
 print()
 
