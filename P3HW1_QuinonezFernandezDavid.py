@@ -43,6 +43,9 @@ elif Average >= 80:
 
 elif Average >= 70:
  print('Your Grade is: C')
+
+elif Average >= 65:
+ print('Your Grade is: D')
  
 elif Average <= 65:
  print('Your Grade is: F') 
